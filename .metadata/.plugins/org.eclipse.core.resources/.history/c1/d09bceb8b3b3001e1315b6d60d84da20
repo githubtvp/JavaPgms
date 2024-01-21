@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Account {
+
+    public static void main(String[] args)
+    {
+        Scanner kb = new Scanner(System.in);
+        BankAccount bA = new BankAccount(100, 4);   
+        pr("St Bal : " + bA.getBal());
+    }
+    
+    static void pr(String msg)
+    {
+        System.out.println(msg);
+    }    
+}

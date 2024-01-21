@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DecimalFormatter",
+            "request": "launch",
+            "mainClass": "DecimalFormatter",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "Hello2/BankAccount.Account",
+            "projectName": "Hello"
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "BankAccount.Account",
+            "projectName": "Hello"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello.Hello",
+            "projectName": "JavaPgms_5c5e8f9d"
+        },
+        {
+            "type": "java",
+            "name": "RectangleDemo",
+            "request": "launch",
+            "mainClass": "Rectangle.RectangleDemo",
+            "projectName": "JavaPgms_5c5e8f9d"
+        }
+    ]
+}
